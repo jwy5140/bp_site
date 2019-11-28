@@ -1,3 +1,15 @@
+# Broken Promise Website (Netherwind-US-Alliance)
+
+This is a website that I am developing in my free time for an online community.
+
+# Planned Features
+
+- Event Management (signups/calendar)
+- Inventory Management (shared items + syncing with an external API)
+- User login/signup and profile creation (also synced with an external API)
+
+...TBD
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
